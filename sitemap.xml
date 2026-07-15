@@ -22,6 +22,13 @@
     <priority>0.3</priority>
   </url>
 
+  <!-- 도구 -->
+  <url>
+    <loc>https://mindweaver74.github.io/fortune</loc>
+    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+
   <!-- 게임 페이지 12종 (canonical과 동일 표기 — 대소문자·하이픈 주의) -->
   <url>
     <loc>https://mindweaver74.github.io/tap-rush</loc>
@@ -35,7 +42,7 @@
   </url>
   <url>
     <loc>https://mindweaver74.github.io/cosmo-radar</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
