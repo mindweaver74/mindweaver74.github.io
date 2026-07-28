@@ -24,71 +24,80 @@
 
   <!-- 도구 -->
   <url>
-    <loc>https://mindweaver74.github.io/fortune</loc>
+    <loc>https://mindweaver74.github.io/fortune/</loc>
     <lastmod>2026-07-15</lastmod>
     <priority>0.8</priority>
   </url>
 
   <!-- 게임 페이지 12종 (canonical과 동일 표기 — 대소문자·하이픈 주의) -->
   <url>
-    <loc>https://mindweaver74.github.io/tap-rush</loc>
+    <loc>https://mindweaver74.github.io/tap-rush/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/nerguri-rush</loc>
+    <loc>https://mindweaver74.github.io/nerguri-rush/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/cosmo-radar</loc>
+    <loc>https://mindweaver74.github.io/cosmo-radar/</loc>
     <lastmod>2026-07-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/One-Second</loc>
+    <loc>https://mindweaver74.github.io/One-Second/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/brickblock</loc>
+    <loc>https://mindweaver74.github.io/brickblock/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/Duck-hunt</loc>
+    <loc>https://mindweaver74.github.io/Duck-hunt/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/frogger</loc>
+    <loc>https://mindweaver74.github.io/frogger/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/1942</loc>
+    <loc>https://mindweaver74.github.io/1942/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/prince</loc>
+    <loc>https://mindweaver74.github.io/prince/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/penguin</loc>
+    <loc>https://mindweaver74.github.io/penguin/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/memory</loc>
+    <loc>https://mindweaver74.github.io/memory/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mindweaver74.github.io/beatbox</loc>
+    <loc>https://mindweaver74.github.io/beatbox/</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.8</priority>
   </url>
-
+  <url>
+    <loc>https://mindweaver74.github.io/puzzle2048/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+    <url>
+    <loc>https://mindweaver74.github.io/jumpman/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <priority>0.8</priority>
+  </url>
 </urlset>
